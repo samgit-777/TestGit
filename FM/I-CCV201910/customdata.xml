@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:1</property><property name="BMTFW_Layout"><![CDATA[string:[Physical View - PSA].[VCUR_CASE_DTL]
+	dx=587,208
+	expanded=t
+	parent=KGSI
+	x=10,57
+[Physical View - PSA].[KGSI]
+	c=758698
+	dx=1591,1685
+	expanded=t
+	parent=Physical View - PSA
+	x=10,57
+[Physical View - PSA].[VETLPRCS]
+	dx=277,208
+	expanded=t
+	parent=(en-ca) KGSO
+	x=10,57
+[Physical View - PSA].[KGSO]
+	c=99f7ff
+	dx=297,275
+	expanded=t
+	parent=Physical View - PSA
+	x=1641,57
+[Physical View - PSA].[VGOVPGM_CURRENT]
+	dx=235,208
+	expanded=t
+	parent=KGSW
+	x=10,57
+[Physical View - PSA].[KGSW]
+	c=73d3ac
+	dx=255,275
+	expanded=t
+	parent=Physical View - PSA
+	x=10,1769
+[Physical View - PSA]
+	c=bf8cbc
+	dx=1948,2181
+	expanded=t
+	parent=PSA
+	x=3346,57
+[Report View - PSA].[VCLIENT]
+	dx=306,82
+	expanded=t
+	parent=Report View - PSA
+	x=356,6893
+[Report View - PSA].[VCLTPG]
+	dx=306,118
+	expanded=t
+	parent=Report View - PSA
+	x=10,3443
+[Report View - PSA].[VCLTPGM]
+	dx=306,154
+	expanded=t
+	parent=Report View - PSA
+	x=356,3371
+[Report View - PSA].[VCLTPG_1]
+	dx=306,100
+	expanded=t
+	parent=GOVPGM
+	x=631,84
+[Report View - PSA].[VCLTPGM_1]
+	dx=306,118
+	expanded=t
+	parent=GOVPGM
+	x=10,75
+[Report View - PSA].[VGOVPGM_VCLTPG]
+	dx=225,208
+	expanded=t
+	parent=GOVPGM
+	x=977,30
+[Report View - PSA].[VGOVPGM_VCLTPGM]
+	dx=235,208
+	expanded=t
+	parent=GOVPGM
+	x=356,30
+[Report View - PSA].[GOVPGM]
+	c=527ca5
+	dx=1212,248
+	expanded=t
+	parent=Report View - PSA
+	x=10,7002
+[Physical View - PSA].[VECAS_SUPP_CASE]
+	dx=249,208
+	expanded=t
+	parent=KGSI
+	x=1170,1232
+[Physical View - PSA].[VCUR_CASE_NR_ENTY]
+	dx=249,208
+	expanded=t
+	parent=KGSI
+	x=10,1467
+[Physical View - PSA].[VBEV_REA_SUPP_CASE]
+	dx=255,208
+	expanded=t
+	parent=KGSI
+	x=611,997
+[Physical View - PSA].[VCASE_RSRC_PGM_ACTVT_ATND_DTL]
+	dx=343,208
+	expanded=t
+	parent=KGSI
+	x=10,292
+[Report View - PSA].[VETLPRCS]
+	dx=395,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,1742
+[Physical View - PSA].[VCASE_TEBA_DTL]
+	dx=291,208
+	expanded=t
+	parent=KGSI
+	x=1037,527
+[Physical View - PSA].[VEMPR_CMPL_AUD_DTL]
+	dx=254,208
+	expanded=t
+	parent=KGSI
+	x=906,997
+[Physical View - PSA].[VCLIENT]
+	dx=175,82
+	expanded=t
+	parent=Physical View - PSA
+	x=225,2071
+[Physical View - PSA].[VCLTPG]
+	dx=175,100
+	expanded=t
+	parent=Physical View - PSA
+	x=10,2071
+[Physical View - PSA].[VCLTPGM]
+	dx=175,118
+	expanded=t
+	parent=Physical View - PSA
+	x=305,1769
+[Physical View - PSA].[VEMPR_CMPL_AUD_YRLY_SUMM]
+	dx=308,190
+	expanded=t
+	parent=KGSI
+	x=337,762
+[Physical View - PSA].[VGAAR_DTL]
+	dx=314,208
+	expanded=t
+	parent=KGSI
+	x=10,527
+[Physical View - PSA].[VCUR_CASE_NT_ENT_DTL]
+	dx=266,208
+	expanded=t
+	parent=KGSI
+	x=10,997
+[Physical View - PSA].[VSRED_DTL]
+	dx=287,208
+	expanded=t
+	parent=KGSI
+	x=10,762
+[Physical View - PSA].[VGST_CASE_ASMT_SCOR_DTL]
+	dx=350,208
+	expanded=t
+	parent=KGSI
+	x=637,57
+[Physical View - PSA].[VCUR_CASE_PER_PEN_DTL]
+	dx=275,208
+	expanded=t
+	parent=KGSI
+	x=685,762
+[Physical View - PSA].[VCUR_CASE_PER_DELE_ADJ_DTL]
+	dx=314,208
+	expanded=t
+	parent=KGSI
+	x=1128,292
+[Physical View - PSA].[VEMPE_PGM_ACTVT_ATND_DTL]
+	dx=302,208
+	expanded=t
+	parent=KGSI
+	x=364,527
+[Physical View - PSA].[VCUR_CASE_ASMT_TX_YR]
+	dx=268,208
+	expanded=t
+	parent=KGSI
+	x=1313,762
+[Physical View - PSA].[VCUR_CASE_FP_ISU]
+	dx=255,208
+	expanded=t
+	parent=KGSI
+	x=316,997
+[Physical View - PSA].[VCUR_CASE_RVW_DTL]
+	dx=252,208
+	expanded=t
+	parent=KGSI
+	x=1200,997
+[Physical View - PSA].[VCUR_CASE_REQ_DTL]
+	dx=251,208
+	expanded=t
+	parent=KGSI
+	x=10,1232
+[Physical View - PSA].[VCUR_CASE_WITM_DTL]
+	dx=251,208
+	expanded=t
+	parent=KGSI
+	x=301,1232
+[Physical View - PSA].[VCUR_CASE_TP_DTL]
+	dx=249,208
+	expanded=t
+	parent=KGSI
+	x=592,1232
+[Physical View - PSA].[VCUR_CASE_TEMP_ATTR_DTL]
+	dx=291,208
+	expanded=t
+	parent=KGSI
+	x=706,527
+[Physical View - PSA].[VAQR_CASE_ELE_STD_DTL]
+	dx=273,208
+	expanded=t
+	parent=KGSI
+	x=1000,762
+[Physical View - PSA].[VAQR_CASE_ELE_STD_MEAS_DTL]
+	dx=316,208
+	expanded=t
+	parent=KGSI
+	x=772,292
+[Physical View - PSA].[VLEG_REF]
+	dx=249,208
+	expanded=t
+	parent=KGSI
+	x=881,1232
+[Physical View - PSA].[VCUR_CASE_ISU_DTL]
+	dx=249,136
+	expanded=t
+	parent=KGSI
+	x=299,1467
+[Physical View - PSA].[VCUR_CASE_PER_DE_ADJ_LREF]
+	dx=339,208
+	expanded=t
+	parent=KGSI
+	x=393,292
+[Physical View - PSA].[VCUR_CASE_PER_DELE_ADJ_PEN_DTL]
+	dx=346,208
+	expanded=t
+	parent=KGSI
+	x=1027,57
+[Report View - PSA].[VCUR_CASE_DTL]
+	dx=587,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,2820
+[Report View - PSA].[VCUR_CASE_TP_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,30
+[Report View - PSA].[VCUR_CASE_TEMP_ATTR_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,735
+[Report View - PSA].[VCASE_RSRC_PGM_ACTVT_ATND_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,265
+[Report View - PSA].[VAQR_CASE_ELE_STD_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,500
+[Report View - PSA].[VAQR_CASE_ELE_STD_MEAS_DTL]
+	dx=445,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1043,500
+[Report View - PSA].[VCUR_CASE_PER_DE_ADJ_LREF]
+	dx=465,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1047,1121
+[Report View - PSA].[VCUR_CASE_PER_DELE_ADJ_PEN_DTL]
+	dx=414,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1047,1507
+[Report View - PSA].[VCUR_CASE_PER_DELE_ADJ_DTL]
+	dx=370,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,1238
+[Report View - PSA].[VCUR_CASE_FP_ISU]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,1977
+[Report View - PSA].[VEMPE_PGM_ACTVT_ATND_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,6618
+[Report View - PSA].[VGAAR_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,3622
+[Report View - PSA].[VCUR_CASE_NT_ENT_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,4291
+[Report View - PSA].[VSRED_DTL]
+	dx=386,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,4056
+[Current Business View].[VEMPE_PGM_ACTVT_ATND_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1228,762
+[Current Business View].[VCASE_TEBA_DTL]
+	dx=444,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=495,292
+[Current Business View].[VCUR_CASE_ASMT_TX_YR]
+	dx=366,172
+	expanded=t
+	parent=INTEGRAS CASE
+	x=806,1467
+[Current Business View].[VCUR_CASE_REQ_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,997
+[Current Business View].[VCUR_CASE_RVW_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=416,997
+[Current Business View].[VECAS_SUPP_CASE]
+	dx=401,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1433,292
+[Current Business View].[VBEV_REA_SUPP_CASE]
+	dx=490,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,57
+[Current Business View].[VCUR_CASE_NR_ENTY]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=822,997
+[Current Business View].[VGAAR_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1228,997
+[Current Business View].[VCUR_CASE_NT_ENT_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,1232
+[Current Business View].[VSRED_DTL]
+	dx=386,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,527
+[Current Business View].[VCUR_CASE_WITM_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=416,1232
+[Current Business View].[VCUR_CASE_ISU_DTL]
+	dx=366,136
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1516,1467
+[Current Business View].[VGST_CASE_ASMT_SCOR_DTL]
+	dx=350,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,1467
+[Current Business View].[VCUR_CASE_PER_PEN_DTL]
+	dx=264,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1212,1467
+[Current Business View].[VEMPR_CMPL_AUD_YRLY_SUMM]
+	dx=366,190
+	expanded=t
+	parent=INTEGRAS CASE
+	x=400,1467
+[Current Business View].[VEMPR_CMPL_AUD_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=822,1232
+[Current Business View].[INTEGRAS CASE]
+	c=89c6fd
+	dx=1892,1685
+	expanded=t
+	parent=Current Business View
+	x=10,57
+[Current Business View]
+	c=d8a77d
+	dx=1912,2042
+	expanded=t
+	parent=PSA
+	x=10,7344
+[PSA]
+	c=99b2c7
+	dx=5304,9396
+	expanded=t
+	parent=KGWR_PDA-Datamart
+	x=10,57
+[KGWR_PDA-Datamart]
+	c=89c6fd
+	dx=5324,9463
+	expanded=t
+	parent=KGWR-CPBQR-PU-PSA-IC_Sam
+	x=10,57
+[INTEGRAS CASE MQS].[VCUR_CASE_PER_DE_ADJ_LREF]
+	dx=465,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=10,57
+[INTEGRAS CASE MQS].[VCUR_CASE_PER_DELE_ADJ_PEN_DTL]
+	dx=414,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=515,57
+[INTEGRAS CASE MQS].[VCUR_CASE_PER_PEN_DTL]
+	dx=264,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=10,527
+[INTEGRAS CASE MQS]
+	c=9bdfc4
+	dx=939,745
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,5846
+[Report View - PSA].[VCUR_CASE_WITM_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,4526
+[Report View - PSA].[VCUR_CASE_ISU_DTL]
+	dx=366,136
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,4761
+[Report View - PSA].[VGST_CASE_ASMT_SCOR_DTL]
+	dx=350,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,4924
+[Report View - PSA].[VCUR_CASE_PER_PEN_DTL]
+	dx=264,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,5159
+[Report View - PSA].[VLEG_REF (VCUR_CASE_PER_DELE_ADJ_PEN_DTL )]
+	dx=558,208
+	expanded=t
+	parent=(en-ca) LegalRefCodes
+	x=10,292
+[Report View - PSA].[VLEG_REF( VCUR_CASE_PER_DE_ADJ_LREF)]
+	dx=605,208
+	expanded=t
+	parent=(en-ca) LegalRefCodes
+	x=10,57
+[Report View - PSA].[VLEG_REF (VCUR_CASE_PER_PEN_DTL)]
+	dx=404,208
+	expanded=t
+	parent=(en-ca) LegalRefCodes
+	x=608,292
+[Report View - PSA].[LegalReferenceCodeTables]
+	c=d8a77d
+	dx=1022,510
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1552,970
+[Report View - PSA].[INTEGRAS CASE]
+	c=9bdfc4
+	dx=2584,6836
+	expanded=t
+	parent=Report View - PSA
+	view=0,0
+	x=702,30
+	zoom=1.000000
+[Report View - PSA]
+	c=568ef6
+	dx=3296,7260
+	expanded=t
+	parent=PSA
+	x=10,57
+[Current Business View].[TCLIENT]
+	dx=306,82
+	expanded=t
+	parent=Current Business View
+	x=10,1950
+[Current Business View].[VCLTPG]
+	dx=306,118
+	expanded=t
+	parent=Current Business View
+	x=356,1769
+[Current Business View].[VCLTPGM]
+	dx=306,154
+	expanded=t
+	parent=Current Business View
+	x=10,1769
+[Current Business View].[VCUR_CASE_DTL]
+	dx=587,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,57
+[Current Business View].[VCUR_CASE_TP_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=846,527
+[Current Business View].[VCUR_CASE_TEMP_ATTR_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1252,527
+[Current Business View].[VCASE_RSRC_PGM_ACTVT_ATND_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,762
+[Current Business View].[VAQR_CASE_ELE_STD_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=416,762
+[Current Business View].[VAQR_CASE_ELE_STD_MEAS_DTL]
+	dx=445,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=10,292
+[Current Business View].[VCUR_CASE_PER_DE_ADJ_LREF]
+	dx=465,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=1167,57
+[Current Business View].[VCUR_CASE_PER_DELE_ADJ_PEN_DTL]
+	dx=414,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=979,292
+[Current Business View].[VCUR_CASE_PER_DELE_ADJ_DTL]
+	dx=370,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=436,527
+[Current Business View].[VCUR_CASE_FP_ISU]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=822,762
+[INTEGRAS CASE MQS].[Case]
+	dx=409,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=10,292
+[INTEGRAS CASE MQS].[Timesheets]
+	dx=244,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=314,527
+[INTEGRAS CASE MQS].[Adjustments and Penalties]
+	dx=297,208
+	expanded=t
+	parent=INTEGRAS CASE MQS
+	x=459,292
+[Report View - PSA].[VCASE_TEBA_DTL]
+	dx=444,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,3152
+[Report View - PSA].[VCUR_CASE_ASMT_TX_YR]
+	dx=366,172
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,3857
+[Report View - PSA].[VCUR_CASE_RVW_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,2917
+[Report View - PSA].[VCUR_CASE_REQ_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,2682
+[Report View - PSA].[VECAS_SUPP_CASE]
+	dx=401,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,3387
+[Report View - PSA].[VBEV_REA_SUPP_CASE]
+	dx=490,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,2447
+[Report View - PSA].[VCUR_CASE_NR_ENTY]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,2212
+[Report View - PSA].[VEMPR_CMPL_AUD_DTL]
+	dx=366,208
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,5394
+[Report View - PSA].[VEMPR_CMPL_AUD_YRLY_SUMM]
+	dx=366,190
+	expanded=t
+	parent=INTEGRAS CASE
+	x=637,5629
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=33
+	tc=323232
+	view=0,0
+	viewStyle=2
+	zoom=1.000000
+]]></property></object></namespace></bmtcustomdata>
